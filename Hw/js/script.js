@@ -14,5 +14,5 @@ timLink.addEventListener('click', function() {
 var jeffBezos = document.getElementById('jeff-pic');
 var jeffLink = document.getElementById('jeff');
 jeffLink.addEventListener('click', function() {
-    elonMusk.className = 'hide', timCook.className = 'hide', jeffBezos.className = '';
+    elonMusk.className = 'hide', timCook.className = 'hide', jeffBezos.className = '' ;
 });
